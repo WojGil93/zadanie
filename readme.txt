@@ -1,1 +1,1 @@
-tekst z gita
+tekst z kompa
