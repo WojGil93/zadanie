@@ -1,1 +1,1 @@
-tekst z kompa
+testowy plik
